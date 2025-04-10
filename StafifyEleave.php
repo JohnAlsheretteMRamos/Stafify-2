@@ -1,5 +1,5 @@
 <?php
-$scriptUrl = "https://script.google.com/macros/s/AKfycbyaXYgl5NLEsxprwoBT7tiUlJhOxCyLwt1qnq0Zy6dxOd6opGjBgQ3roHoDC7GX5srpqg/exec";
+$scriptUrl = "https://script.google.com/macros/s/AKfycbxeCHm08Qkx3S9gD1Ht3V2_aBLrXG_cx7fi5UbpY2BchunFl3EY5K_SMG_2AqonVbndPg/exec";
 ?>
 
 <!DOCTYPE html>
